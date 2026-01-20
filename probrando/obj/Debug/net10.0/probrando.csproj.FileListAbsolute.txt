@@ -1,0 +1,15 @@
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.AssemblyInfoInputs.cache
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.AssemblyInfo.cs
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.sourcelink.json
+/workspaces/miPrimerRepo/probrando/bin/Debug/net10.0/probrando
+/workspaces/miPrimerRepo/probrando/bin/Debug/net10.0/probrando.deps.json
+/workspaces/miPrimerRepo/probrando/bin/Debug/net10.0/probrando.runtimeconfig.json
+/workspaces/miPrimerRepo/probrando/bin/Debug/net10.0/probrando.dll
+/workspaces/miPrimerRepo/probrando/bin/Debug/net10.0/probrando.pdb
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.dll
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/refint/probrando.dll
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.pdb
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/probrando.genruntimeconfig.cache
+/workspaces/miPrimerRepo/probrando/obj/Debug/net10.0/ref/probrando.dll
